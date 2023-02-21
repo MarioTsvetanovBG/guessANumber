@@ -1,4 +1,4 @@
-# GuessANumber
+# guessANumber
 Practical Project: Guess A Number
 
 
